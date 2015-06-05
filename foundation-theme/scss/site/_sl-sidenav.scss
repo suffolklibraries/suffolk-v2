@@ -1,0 +1,14 @@
+.sl-side-nav {
+    border-bottom: 0.1rem solid $silver;
+    padding-bottom: 0;
+}
+
+.sl-side-nav li {
+    margin-bottom: 0;
+    font-size: 1rem;
+}
+
+.sl-side-nav li a {
+    border-top: 0.1rem solid $silver;
+    color: $primary-color !important;
+}

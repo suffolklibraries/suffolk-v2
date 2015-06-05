@@ -1,0 +1,9 @@
+body {
+
+    // Increase font size at medium and above
+    @media screen and (min-width: $medium-breakpoint) {
+        $base-font-size: 19px;
+        $rem-base = $base-font-size;
+    }
+
+}

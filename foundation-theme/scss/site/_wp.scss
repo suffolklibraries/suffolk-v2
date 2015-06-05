@@ -1,0 +1,18 @@
+// WP images
+
+.wp-caption {
+	width: auto;
+	max-width: 100% !important;
+	height: auto !important;
+}
+
+.wp-caption-text {
+	color: $jumbo;
+}
+
+.th,
+.th:hover,
+.th:focus {
+	box-shadow: none;
+	transition: auto;
+}
